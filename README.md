@@ -1,2 +1,2 @@
 # python
-python-script
+万象物语游戏脚本
